@@ -1,5 +1,3 @@
-@import "minima";
-
 body {
   background-color: #fdfdfd;
   font-family: "Comic Sans MS", cursive, sans-serif;
@@ -17,5 +15,5 @@ body {
 
 .panda-banner img {
   width: 150px;
-  border-radius: 50%;
+  border-radius: 25%;
 }
