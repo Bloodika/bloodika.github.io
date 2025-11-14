@@ -1,0 +1,21 @@
+@import "minima";
+
+body {
+  background-color: #fdfdfd;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.site-title {
+  color: #222;
+  font-size: 2.5em;
+}
+
+.panda-banner {
+  text-align: center;
+  margin: 20px;
+}
+
+.panda-banner img {
+  width: 150px;
+  border-radius: 50%;
+}
